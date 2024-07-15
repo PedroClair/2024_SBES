@@ -1,2 +1,6 @@
 # 2024_SBES
 Data and Artifacts to paper entitled: Current DevOps Teaching Techniques: A Systematic Literature Review.
+
+## Abstract
+DevOps is a set of practices that deals with the coordination between development and operations, in the context of teams, with the main objective of ensuring continuous integration and delivery, quality, and reliability. DevOps, which builds upon modern processes, is currently evolving. So, finding specific techniques for teaching it is crucial. This study aims to identify in the software engineering literature the existence of studies that have used techniques to teach DevOps in the last five years. To achieve this, a systematic literature review was conducted to identify teaching techniques applied in the DevOps contexts, as well as the associated benefits and challenges. From 27 papers with 40 cited techniques, we found that the most common teaching techniques are Project-Based Learning followed by Collaborative Learning and the Flipped Classroom, where 70% can be considered active methods. The benefits include increased student engagement, simulation of real industry experience, and improved practical and technical skills. However, challenges arise in validating
+student performance, keeping up with the rapidly changing DevOps content, and finding sufficient time to teach during a course.
