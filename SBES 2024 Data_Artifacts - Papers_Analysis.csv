@@ -1,0 +1,665 @@
+Title,Summarized Abstract,Summarized Introduction,Methods Used,Limitations,Contributions,Practical Implications,Findings,Conclusions,Others,Teaching Tecniques Used,Challenge in to use Teaching Tecniques,Benefits in to use Teaching Tecniques
+Analysing the SWECOM Standard for Designing a DevOps Education Programme,"DevOps education programme development based on SWECOM standard. 
+Addresses challenges in software engineering education for DevOps skills. 
+Proposal for a comprehensive and skill-oriented DevOps graduate academic programme. ","Focuses on deriving a DevOps education program using the SWECOM standard. 
+Addresses challenges in software engineering education due to evolving technologies. 
+Proposes a standard-based process for creating a DevOps graduate program. ","SWECOM standard based process for DevOps education programme derivation.   
+Consideration of Digital, Data and Technology Profession Capability Framework (DDaT). ","Lack of common agreement on DevOps definition and standards. 
+Early stages of the standard-based program design process. ","DevOps education programme development process based on SWECOM standard. 
+Requirements for a DevOps education programme satisfying job market needs. 
+Skill-oriented standards and learning levels for DevOps programme design. 
+DevOps graduate education programme derived from a standard-based process. ","Introduces standard-based process for DevOps graduate education programme. 
+Aims to form next-gen software engineers with DevOps skills. 
+Provides a skill-oriented DevOps programme for curricula designers. 
+Encourages community validation and improvement efforts for the programme. ","Introduces SWECOM standard for DevOps education programme design.
+Focuses on skill-oriented DevOps programme design based on standards.
+Provides a comprehensive DevOps graduate academic programme proposal.
+Offers a reference for curricula designers in higher education institutions.
+Aims to form software engineers with DevOps abilities to meet job market needs.","Standard-based process for DevOps education program design is promising. 
+Efforts from the community are needed to validate and improve the program. 
+A second iteration with a new standard is planned for validation. ",SWECOM standard used to design DevOps education programme for software engineers.   ,"Utilized cognitive categories, teaching experiences, and DevOps market analysis. 
+No common agreement on DevOps definition or recognized content for courses. ","Lack of common agreement on DevOps definition in academic community. 
+No recognized content for DevOps course in education programs. 
+DevOps principles and practices are part of software engineering domain. ","Enhances student engagement and participation in the learning process. 
+Facilitates skill development and knowledge retention. 
+Helps in categorizing activities based on cognitive complexity levels. "
+Teaching DevOps in Academia and Industry: Reflections and Vision,"Describes DevOps education in academia and industry, proposing curriculum changes. ","Describes teaching DevOps in academia and industry, comparing approaches. 
+Focuses on educational programs, lessons learned, and proposed curriculum changes. ","DevOps philosophy, approach, and tools. 
+Agile methods and their application. 
+Microservices. ","Limited bilateral communication with teams, requiring on-site adaptation. ","DevOps practices led to faster code shipping and fewer failed deployments. 
+Teaching DevOps in academia and industry, comparing approaches, and proposing a vision.  ","DevOps and microservices may change how companies run their systems. 
+DevOps philosophy can serve as a backbone for Software Engineering education. 
+Similarities between academia and industry: pragmatism, hype, and asymmetry. ","DevOps practices led to 30x faster code shipping, 8,000x faster deployments.
+DevOps philosophy is a skeleton for Software Engineering education.
+DevOps can change how companies run systems, like Agile did.","DevOps philosophy can reshape how companies operate systems. 
+Educational programs need adjustments to align with DevOps principles.  
+DevOps values should be integrated into curricula for effective education. ","Describes teaching DevOps in academia and industry, proposing curriculum changes. ","Mix of lectures, project follow-up sessions, and checkpoints. 
+Provided examples, references to tools, and close supervision during sessions. ","Balancing technical depth with broader organizational understanding is crucial. 
+Integrating DevOps principles effectively requires a comprehensive approach. 
+Importance of management involvement in understanding the bigger picture. ","Enhances understanding of AB testing and hypothesis checking. 
+Facilitates communication between developers and other departments. 
+Shifts focus of testers to product testing for better outcomes. 
+Develops soft skills in students working in groups. "
+Unveiling the Teaching Methods Adopted in DevOps Courses,"Investigates teaching methods in DevOps Education for course planning. 
+Focuses on practical teaching approaches and collaborative learning environments. 
+Addresses the limited research on teaching methods in DevOps Education. ","DevOps addresses agility needs in software companies, reducing code propagation time. 
+Limited research on teaching methods in DevOps education poses challenges. 
+This study aims to enhance DevOps teaching by analyzing existing methods. ","Practical teaching methods favored for DevOps education. 
+Collaborative learning environment emphasized. 
+Limited research on teaching methods in DevOps education. ","Limited research on teaching methods in DevOps Education. 
+Challenges for educators due to lack of available teaching approaches. ","Improve teaching of DevOps by studying teaching strategies in courses. 
+Extract teaching methods from primary studies and interviews for comparison.  ","Practical methods favored for DevOps teaching, promoting collaborative learning. ",DevOps educators prefer practical teaching methods for collaborative learning environments.,Practical methods favored in DevOps education for collaborative learning environment. ,"Investigates teaching methods in DevOps Education to enhance course planning. 
+Emphasizes practical teaching approaches in a collaborative learning environment. 
+Addresses limited research on teaching methods in DevOps Education. ","Practical teaching methods favored in DevOps courses for collaborative learning. 
+Educators guide students using appropriate teaching methods in DevOps courses. 
+Limited research on teaching methods in DevOps education poses challenges. ","Limited research on teaching methods in DevOps Education poses challenges. 
+Educators may be unaware of available and recommended teaching approaches. ","Practical methods enhance learning in DevOps courses. 
+Collaborative environment fosters experimentation and reflection. 
+Helps address industry demand for DevOps professionals. 
+Improves course planning for DevOps educators. "
+Shifting traditional undergraduate software engineering instruction to a DevOps focus,"Focus on DevOps principles in software engineering education. 
+Evaluated student performance in DevOps skills and traditional SE topics. ","Traditional SE education shifts focus to DevOps principles for industry alignment.  
+DevOps culture promotes fast delivery, continuous feedback, and learning environment.  
+Study evaluates student performance in DevOps skills and traditional SE topics. ","Curriculum shift to DevOps focus
+Summative and formative assessment
+Incorporating DevOps practices into software engineering education  ","Lack of instructor experience with DevOps.
+DevOps crosscuts many traditional courses.
+DevOps being a skills-heavy discipline.
+Difficulty in creating a realistic environment for students.",Focus on project management and DevOps methodologies in software engineering. ,"DevOps topics should not overshadow classical software engineering topics. 
+Continuous reinforcement of metrics and testing importance is crucial for students. 
+Balancing content delivery with practical application is essential for student success. 
+Incorporating DevOps into software engineering curriculum is necessary for industry relevance. ","Students developed DevOps skills but needed more traditional software engineering reinforcement.
+DevOps topics were well-received, but testing and metrics needed reinforcement.","Students developed DevOps skills but needed reinforcement in traditional topics. 
+DevOps topics were well-received, but classic software engineering topics needed reinforcement. 
+Balancing DevOps content with practical application is crucial for student success. ","Paper shifts SE course focus to DevOps, assessing student performance.   ","Formative and summative assessment through team project and final exam. 
+CALMS evaluation, Code Development Management, WIP, and Scrum Practices assessment. 
+Focus on specific tools like Docker for continuous project extension. 
+Shifted focus from traditional topics to DevOps principles in course. 
+Encouraged DevOps understanding by placing students from various Computing programs. ","Challenges include lack of instructor experience with DevOps. 
+DevOps crosscuts many traditional courses, making integration complex. 
+Difficulty in creating a realistic environment for students to experiment. ","Enhances student performance in DevOps principles. 
+Provides formative and summative assessment for student evaluation. 
+Helps students develop DevOps skills. 
+Indicates the need for reinforcement in traditional Software Engineering topics. "
+Overcoming Challenges in DevOps Education through Teaching Methods,"DevOps education explores teaching methods for new professionals in industry. 
+Project-based learning and collaborative learning are key teaching methods. ","DevOps education explores teaching methods for industry professionals. 
+Focus on project-based and collaborative learning in DevOps teaching. 
+Addresses challenges in DevOps education through effective teaching methods. ","Project-based learning
+Labs
+Collaborative learning
+Lecture
+Comprehensive distance learning
+Feedback sessions
+Flipped classroom
+Tutorial
+Problem-based learning","Difficulty in setting up the environment and obtaining resources. 
+Lack of specific tools for teaching DevOps. 
+Limited time for teaching DevOps effectively. 
+Insufficient literature on teaching DevOps methods. ","Identification of 18 interview-derived teaching methods for DevOps courses. 
+Linking teaching methods to challenges in DevOps education. 
+Internal validation through member checking and external comparison with prior study. 
+Comparison of teaching methods from interviews and literature. ","Promote project-based learning and collaborative learning in DevOps education. 
+Enhance problem-solving skills of students through practical teaching methods. 
+Foster collaboration between industry and academia for DevOps training. 
+Recommend innovative teaching methods for engineering education. ","Project-based learning, labs, and collaborative learning are popular teaching methods.
+Identified 18 teaching methods, including mentoring, personalized learning, and seminars.
+DevOps educators use project-based learning to teach students DevOps practices.","Project-based learning and collaborative learning are key teaching methods.  
+Identified teaching methods address challenges in DevOps education.  
+Comparison with literature review shows alignment in teaching methods. ",DevOps education challenges addressed through project-based and collaborative learning methods.   ,"Project-based learning and collaborative learning are key teaching techniques. 
+Case studies from Google, Meta, and Netflix are used in classrooms. 
+Katacoda platform is utilized for sharing tutorials on course tools. ","Challenges include insufficient literature, difficulty in assessing student understanding. 
+Teaching DevOps culture and concepts to students without industrial experience. 
+Difficulty in hands-on classes with a large number of students. ","Project-based learning and collaborative learning are relevant teaching methods. 
+Agile activities like sprints and scrum planning enhance course execution. 
+Labs demonstrate DevOps concepts using free tools and public clouds. "
+Preparing Students for Software Production with DevOps: A Graduate Course Approach,"Graduate course focuses on DevOps practices over Software Engineering. 
+Student performance improved by 22% after course participation. ","Focuses on a DevOps course for graduate students in software production. 
+Emphasizes DevOps practices and software engineering education. 
+Highlights the importance of teaching production-based topics after SE education. ","Formative and summative assessment methods tracked student performance. 
+Systematic review identified key DevOps terms for course development. 
+DevOps course topics include Automated Deployment Pipelines, Continuous Integration, and more. ","Limited coverage of DevOps topics in Higher Education institutions.
+Few studies available on DevOps Education.","Describes a graduate course focusing on DevOps practices. 
+Reviews relevant topics, course development, learning outcomes, and pedagogical design. 
+Identifies essential topics for a DevOps-focused course. 
+Lists crucial topics for a DevOps course, including Automated Deployment Pipelines. ","Practical implications include improving student performance in software production topics.
+DevOps-focused courses can enhance learning outcomes and validate course design.
+Offering graduate courses can cover DevOps topics more comprehensively than undergraduates.
+Students can apply DevOps practices over traditional software development effectively.","Students' performance improved by 22% after course participation.
+DevOps course enhanced learning outcomes with lectures, discussions, and projects.","Students' performance improved by 22% after DevOps-focused course.  
+Nearly 77% of students met or exceeded all learning outcomes. 
+DevOps-centric course showed effective teaching methods for software production. 
+Improvements seen in all topics except Topic 3 during the term. ","Graduate course focused on DevOps practices improved student performance by 22%. 
+DevOps course covered topics like Continuous Integration, Deployment Pipelines, and more. 
+DevOps education lacks extensive literature but covers essential topics effectively. ","Formative assessments through quizzes, lectures, discussions, and exercises. 
+Summative assessments through exams tracking student performance and learning outcomes. 
+Five projects assigned for practical application of learned concepts.  
+Individual explorations of tools like git and containerization. 
+Group assignments to set up a DevOps pipeline for code deployment. ","Challenges include fostering DevOps culture and using diverse technologies. 
+Incorporating project-based work can enhance understanding of complex topics. ","Enhances learning outcomes by 22% through lectures, discussions, and projects. 
+Covers DevOps concepts effectively, improving student performance in software production. 
+Validates course design through formative and summative assessments. "
+DevOps education: an interview study of challenges and recommendations,DevOps education challenges and recommendations for teaching practices. ,DevOps Education study on challenges and recommendations for teaching DevOps.     ,"Cross-sectional interview study with DevOps educators. 
+Grounded theory as the qualitative research method. ","Identified 83 challenges and 185 recommendations for DevOps teaching.
+Complete results available in the online appendix.",Identified 83 challenges and 185 recommendations in DevOps education. ,"Provides insights for educators to enhance DevOps teaching methodologies. 
+Offers recommendations to address challenges in DevOps education. 
+Highlights opportunities for researchers to develop new teaching tools. ","Identified 83 challenges and 185 recommendations for DevOps teaching.
+Challenges and recommendations are distributed across seven themes.
+Challenges and recommendations are not final, allowing for future investigation.
+DevOps is an emergent research area in software engineering.","Identified 83 challenges and 185 recommendations for DevOps teaching. 
+Open challenges and conflicts between challenges and recommendations were found. ","DevOps education challenges and recommendations from 14 educators worldwide.  
+83 challenges, 185 recommendations identified for DevOps teaching.  
+Interview study reveals conflicts and links between challenges and recommendations. ","Practical activities, cloud services, relevant industry tools are common.  
+Challenges in teaching DevOps culture to students with no experience. 
+Recommendations include hands-on activities, Jenkins tool, continuous integration teaching. ","Challenges include insufficient knowledge level and limited time for training. 
+Difficulty in defining the ideal number of tools for teaching. 
+Lack of literature related to teaching DevOps poses a challenge. ","Practical activities enhance learning and understanding of DevOps concepts. 
+Recommendations help educators avoid common problems when teaching DevOps. 
+DevOps culture is effectively taught through practical activities. "
+Industry-academy collaboration in teaching DevOps and continuous delivery to software engineering students: towards improved industrial relevance in higher education,"Addresses shortage of software engineers through industry-academia collaboration. 
+Focuses on teaching DevOps and Continuous Delivery in higher education. 
+Investigates multidisciplinary teaching to enhance industrial relevance of education. 
+Explores joint courses to improve employability of software engineering graduates. ","Focus on industry-academia collaboration in teaching DevOps and Continuous Delivery.
+Aims to enhance industrial relevance in higher education for software engineering.","Industry-academia collaboration to teach Continuous Delivery and DevOps. 
+Multidisciplinary teaching, practical assignments, written exams, and group discussions. 
+Formative assessment, fostering DevOps mindset, and student-centered interactive revision. ","Lack of research on teaching DevOps and Continuous Delivery in education. 
+Challenges in implementing the course as part of regular curriculum. 
+Difficulty in keeping up with rapidly changing technological tools. ","Describes DevOps and Continuous Delivery course in industry-university collaboration. 
+Investigates academy-industry collaboration to enhance software engineering education.  
+Explores teaching methods to improve industrial relevance in higher education.  ","Enhancing industrial relevance and employability of software engineering graduates. 
+Investigating multidisciplinary teaching in industry-academia collaboration for higher education improvement.  
+Aligning theoretical and practical interdisciplinary learning objectives in software engineering education. ","Investigated teaching DevOps in university-company collaboration to enhance industrial relevance.
+Found fruitful collaboration led to high student satisfaction and learning outcomes.","Collaboration in teaching DevOps improved industrial relevance and student satisfaction. 
+Future work includes course enhancements and integration into regular curriculum. ",Explored industry-academia collaboration to enhance software engineering education.   ,"Formative assessment used for learning objectives throughout the course. 
+Practical assignments and written exams for assessing learning objectives. 
+Group discussions and written portfolios for formative evaluation. 
+Participation in 80% of contact teaching required to take the exam. ","Teaching DevOps requires multidisciplinary skills and complex execution architectures. 
+DevOps and Continuous Delivery technologies are still emerging, making knowledge acquisition time-consuming. 
+Challenges include maintaining industrial relevance, teaching development, operations activities.  
+Keeping up with evolving industry tools and technologies poses a challenge. ","Enhances alignment of theoretical and practical interdisciplinary learning objectives. 
+Improves industrial relevance of higher education through industry-academia collaboration. 
+Teaches cultural enablers like shared values, trust, and constant communication. "
+Achievement unlocked: a case study on gamifying DevOps practices in industry,"Gamification in DevOps practices accelerates adoption rates by at least 60%. 
+Badges promote new practices, impacting delivery, quality, and throughput metrics. ","Gamification in DevOps practices at a large company with 333 projects.
+Study on badge-based gamification to accelerate new practice adoption.","Mixed-methods study on badge-based gamification in a large company. 
+Survey conducted with practitioners to understand reactions to gamification. ","Experimenter bias and errors in analyzing data from real-world projects. 
+Influence of factors beyond gamification on DevOps practice adoption. 
+Surveys subject to human error and bias. 
+Metrics may not fully capture software project constructs accurately. ","Large-scale study on gamification impact in real industrial environment. 
+Evaluation of gamification's effectiveness in promoting new practices. 
+Analysis of metric shifts in software development teams due to gamification. 
+Survey on practitioners' reactions and perceptions of gamification impact. ","Gamification accelerates new practice adoption by at least 60%. 
+Badges can reduce cycle time and change lead time metrics. 
+Testing badges increase bug fixing commits but reduce output. 
+Badges motivate developers to learn new practices and reduce manual work. ","Gamification accelerates new practice adoption by at least 60%. 
+Teams with code review badges show reduced cycle time. 
+Testing badges increase bug fixing commits but reduce output. 
+74% of survey participants find badges useful for learning new practices. ","Badge-based gamification accelerates practice adoption by at least 60%. 
+Teams with testing badges increase bug fixing commits but output fewer. 
+Code review and quality tooling badges reduce cycle time and change lead time. 
+74% of survey participants found badges helpful for learning new practices. ","Gamification with badges accelerates DevOps practice adoption in large companies. 
+Badge adoption linked to changes in delivery, quality, and throughput metrics. 
+Survey shows badges helpful for learning new practices in DevOps. ","Gamification with badges to promote new practices in software development.   
+Use of badges to improve key performance indicators in projects. ","Gamification can motivate user activity and improve engagement in teaching techniques. 
+Incorporating gamification can help in promoting the adoption of new tools. 
+Changing developers' techniques requires careful planning and creative solutions. 
+Gamification has shown positive results in promoting new practices in software development. ","Improved software quality and test practices observed with testing badges. 
+Reduced manual overhead in deployment and improved transparency in team communication. 
+Standardization of tooling and processes achieved through badge adoption. "
+Design of a (yet another?) devops course,"Presents design of academic master-level course aimed at DevOps. 
+Based on SWEBOK Guide and Bloom's taxonomy for course design. 
+Aims to enhance computer science curricula with DevOps content. 
+Describes course objectives, learning outcomes, grading system, and scheduled activities. ",DevOps course design for higher education using SWEBOK Guide.   ,"SWEBOK Guide and Bloom's taxonomy for course design specification. 
+Intensive technical in-class workshops to cover a large number of tools. 
+Participation in DevOps18 workshop to explore other courses. ",No specific limitations were mentioned in the provided contexts.,"Design of a master-level course aimed at DevOps. 
+Use of SWEBOK Guide and Bloom's taxonomy for course design. 
+Mapping activities to SWEBOK knowledge areas and learning outcomes. ","Enhances course design quality using SWEBOK Guide and Bloom's taxonomy. 
+Provides reference for teaching DevOps courses effectively. 
+Covers DevOps-related topics like continuous integration, testing frameworks, and containers. ","Design of master-level DevOps course using SWEBOK Guide and Bloom's taxonomy.
+Course belongs to Reliable Software Systems profile, taught in S3.
+Other courses addressing DevOps-related topics found in France and the USA.","The paper presents the design of an academic master-level DevOps course. 
+The course belongs to the Reliable Software Systems profile and is taught in S3. 
+Other courses addressing DevOps-related topics were discussed. 
+The course covers continuous integration, testing frameworks, containers, and soft skills. 
+The methodology Messir and the tool Excalibur were developed. ",DevOps course design for master-level using SWEBOK Guide and Bloom's taxonomy.   ,"Project presentations, lectures, and group work enhance student interaction. 
+Lectures focus on DevOps concepts, not tool specifics. ","Peer-assessment introduced to enhance academic dimension and student engagement. 
+Lectures focus on DevOps concepts, not tool specifics. ","Enhances quality of course design and ease of assessment.
+Aligns lectures with project objectives and covers DevOps theoretical background.
+Tracks project workload, detects overtimes, and assesses students' performance."
+Teaching DevOps and cloud based software engineering in university curricula,"Recommendations for DevOps and Cloud-based Software Development curricula. 
+DevOps principles, tools, and methodologies for agile data-driven companies. 
+Importance of agile software development and growing demand for DevOps. 
+Experience in defining and teaching DevOps and Software Engineering course. ",Recommendations on DevOps and Cloud-based Software Development curricula for universities.  ,"Project based learning
+Instructional methodologies like Agile development process
+Technology introduction lectures ",No specific limitations mentioned in the provided contexts.,"Recommendations on DevOps and Cloud-based Software Development curricula.  
+Experience of the first course run at the University of Amsterdam.  
+Defining DevOps and Software Engineering Body of Knowledge.  
+Overview and analysis of existing DevOps and cloud-based software development models. ","Defines DevOpsSE-BoK for SE professionals' efficient work. 
+Presents course structure and instructional methodologies for DevOps and SE. 
+Incorporates cloud-based DevOps tools for continuous development and improvement. 
+Guest lectures by industry practitioners enhance practical orientation. ","Defines DevOpsSE BoK for SE professionals to work efficiently. 
+Reports on the experience of the first course run. 
+Course employs self-study activities and technology-oriented lectures. 
+Presents authors' experience on defining and teaching DevOps course. ","DevOps course development was successful with AWS Educate Class Environment. 
+Agile Kanban model was used for course management. 
+DevOpsSE-BoK is crucial for consistent curricula structuring.  
+Guest lectures by industry practitioners enhance course practical orientation. ","Paper outlines DevOpsSE BoK for teaching DevOps in university curricula. 
+Discusses DevOps definitions, cloud-based tools, and course structure. 
+Emphasizes need for agile software development and DevOps skills. ","Project based learning enhances team skills in Agile development process. 
+Technology-oriented lectures supported by practice and labs. 
+Guest lectures by practitioners offer practical insights at the course end. ","Challenge in using AWS Educate Class Environment due to limited documentation.
+Implementing Agile Kanban model for developing, testing, and updating lectures.","Enhances team-based skills and Agile development mastery. 
+Facilitates understanding of cloud-based DevOps tools for software development. 
+Encourages automation of development, testing, and release practices. "
+Grounded Theory for DevOps Education,"DevOps education gap in academic research, focusing on training and future. 
+Grounded Theory methodology used to study DevOps education and challenges. 
+Concerns about software energy consumption in mobile computing and cloud deployments. 
+SSOT service model addresses data-synchronization issues but introduces single point of failure. ","DevOps education gap in academic research, focusing on Continuous Maintenance.   ","Grounded Theory methodology applied for DevOps education research. 
+GT methodology used in software engineering research. ","Used social media for survey recruitment, limiting respondents. 
+Did not control for various development processes used by respondents. ","Identifies CM processes in companies and SSOT data service interactions. 
+Fills gaps in DevOps education and continuous maintenance processes. ","Identified seven categories of DevOps topics that interest IT practitioners. 
+Explored DevOps education through evaluating potential theory based on different dimensions. ","Identified CM processes in companies and challenges in data services.
+Explored DevOps education gap and lack of academic research.","Identified seven categories of DevOps topics that interested IT practitioners. 
+Addressed data-synchronization problems in the SSOT service model. 
+Proposed hypotheses for enhancing student learning outcomes and academic-industry connections. ","DevOps education gap in academic research, focusing on training and skills. 
+Proposed Continuous Maintenance concept, emphasizing best practices and communication skills. 
+Defined mutable and immutable SSOT relationships, highlighting benefits. 
+Concludes with future recommendations and benefits of SSOT. ","Teaching automated testing, CI, and DevOps in undergraduate education.
+Incorporating DevOps into project management methodology teaching.","Lack of DevOps curriculum in most institutions poses challenges. 
+Unclear teaching of software testing in existing curricula. ","Benefits include no need to manage foreign data changes locally. 
+Enhances learning outcomes and bridges academia-industry gap. "
+Qualifying Software Engineers Undergraduates in DevOps - Challenges of Introducing Technical and Non-technical Concepts in a Project-oriented Course,"Challenges in teaching DevOps concepts to software engineering undergraduates. 
+Empirical study on a project-oriented DevOps course setup. 
+Data collected from project repositories and student questionnaires. ",Challenges in teaching DevOps concepts to software engineering undergraduates.  ,"Data mining from course repository.
+Empirical research with quantitative and qualitative analysis.
+Questionnaire to evaluate students' perceptions.",Limited by one university and number of students. ,"Presents a project-oriented course linking DevOps concepts with Open Source. 
+Addresses teaching challenges of presenting DevOps complexity with technical aspects. ","DevOps education challenges include technical and non-technical concepts. 
+Project-oriented courses help students understand DevOps concepts effectively. 
+Collaboration and automation are key to achieving continuous delivery. 
+Project restrictions guide scope, evaluation, planning, and risk assessment. 
+DevOps course enhances team productivity and collaboration.  ","First-hand experience enhances DevOps comprehension and class discussions.
+Lessons learned guide professors in designing project-oriented courses for DevOps.
+Recommendations for professors, instructors, and practitioners based on course data.","DevOps education is challenging due to technical and non-technical concepts. 
+Students value technical DevOps practices more than non-technical ones. ","Project-oriented course teaches technical and non-technical DevOps concepts to undergraduates. 
+Lessons learned to guide professors in designing project-oriented courses. ","Coding to associate DevOps concepts with Agile, Lean, and Open source. 
+Employed mentoring formats with instructors and industry mentors. 
+Listed agile, OSS, lean, and DevOps practices with open source tools. ","DevOps education challenges include managing time, communication, and understanding concepts. 
+Students face difficulties in implementing numerous concepts, tools, and techniques. 
+Challenges include efficient communication, team productivity, and automated deployment pipelines. ","Mentoring aids in assessing project risks and brings industry perspectives. 
+Encourages experimentation with new tools and technologies in project settings. "
+DevOps Research-Based Teaching Using Qualitative Research and Inter-Coder Agreement,"Integrates DevOps in SE curricula through research-based teaching. 
+Uses qualitative analysis and inter-coder agreement to measure students' learning. 
+Analyzes effectiveness of RBT methodology in undergraduate engineering courses. ","DevOps integration in SE curricula through Research-Based Teaching (RBT). 
+RBT approach innovation in software engineering education. 
+DevOps RBT experience using qualitative analysis and ICA. 
+Analysis of students' learning effectiveness and knowledge acquisition. ","Qualitative analysis with coding techniques. 
+Inter-coder agreement (ICA) using Krippendorff's a coefficients.  ","Reliability concerns addressed using Krippendorff's a coefficients. 
+Coding process must be hard to prevent automatic matching. ","Integrating DevOps into SE curricula through research-based teaching. 
+Using qualitative analysis and inter-coder agreement to measure students' learning. 
+Providing new tools for teachers to identify less understood concepts. 
+Assessing the effectiveness of RBT methodology in an undergraduate course. ","Evaluates effectiveness of DevOps RBT experience in student learning. 
+Assesses use of ICA to check students' knowledge acquisition. 
+Provides evidence for applying similar experiences in learning contexts. ","RBT method in SE curricula is effective with qualitative analysis.
+Krippendorff's a coefficients measure students' learning extent in DevOps.
+High a coefficient indicates homogeneous learning, not necessarily validity.","Analyzed effectiveness of RBT methodology in integrating DevOps into SE curricula. 
+Evaluated students' learning through thematic analysis and ICA. 
+Highlighted challenges in learning DevOps concepts related to quality. ","DevOps integrated into SE curricula using research-based teaching approach.
+Qualitative analysis and inter-coder agreement used to measure students' learning.
+Innovative approach shows effectiveness in learning DevOps in academic settings.","Research-based Teaching (RBT) method integrates qualitative analysis and inter-coder agreement. 
+RBT promotes student learning through active research and critical thinking skills. ","DevOps challenges due to complexity for students without industry experience. 
+DevOps lacks a proper theory, requires practical labs for teaching. ","Enhances student learning through research-based teaching methods. 
+Measures students' knowledge acquisition effectively using inter-coder agreement. 
+Provides evidence for assessing similar teaching experiences in various contexts. 
+Compares results with experiments involving training students for better insights. 
+Challenges traditional evaluation tests with practical real-life problem-solving assessments. "
+Analyzing DevOps Teaching Strategies: An Initial Study,"DevOps teaching strategies analyzed for software engineering education. 
+Study explores teaching environments to address DevOps challenges and recommendations. ","Analyzes teaching strategies in DevOps courses for software engineering education. 
+Investigates challenges, recommendations, and teaching practices in DevOps education. 
+Explores how DevOps-supporting environments address educational challenges and recommendations. ",Defines study terms and outlines research procedures. ,"Identified five supporting environments with unique features.
+DevOps Lab Platform integrates GitLab, Jenkins, Codeface, and SonarQube.
+ALECSS integrates Jenkins, Git, JUnit, Checkstyle, FindBugs for teaching.
+DevOpsEnvy integrates Git, Jenkins, SonarQube, Maven, Gradle, Docker for teaching.
+CDEP allows project visualization and exercises using Jenkins and Docker.","Analyzed teaching practices in DevOps courses. 
+Investigated DevOps-supporting teaching environments. 
+Explored new educational strategies for DevOps education. ","Highlights teaching strategies and environments for DevOps education. 
+Identifies challenges and recommendations for DevOps education.  ","Identified teaching practices in DevOps education from existing literature.
+Investigated DevOps-supporting teaching environments addressing education challenges and recommendations.
+Majority of challenges and recommendations in DevOps education remain unaddressed.","Identified teaching practices and tools for DevOps education.  
+Recommendations for enhancing educational tools to address challenges. ","Analyzed teaching strategies in DevOps education to address challenges.   
+Investigated DevOps-supporting teaching environments and educational tools.  
+Used literature review data to identify teaching practices and challenges.  ","Flipped classroom model, peer instruction, collaborative learning, and tutorials. 
+Studio-based learning, experiential learning, project-based learning, and problem-based learning. 
+Lectures, labs, case studies, and integrated teaching strategies. ","DevOps tools complexity. 
+Difficulty in assessing the teaching of DevOps mindset. 
+Evaluation workload increase for teachers due to DevOps. ","Labs offer practical sessions for teaching continuous integration and delivery. 
+Project-based learning supports collaboration between students in DevOps courses. 
+Flipped classroom model enhances learning through videos and teacher-guided discussions. 
+Collaborative learning encourages communication and collaboration among team members. 
+Educational environments facilitate course assessment and tool integration in teaching. "
+Combining Agile and DevOps to Improve Students? Tech and Non-tech Skills.,"Study aims to enhance students' tech and non-tech skills in IT market. 
+Proposal combines DevOps, Scrum, and Challenge Based Learning for skill development. 
+Framework integrates cultural aspects to support students in higher education. 
+Soft skills development requires improvement and more efficient approaches. ","Focus on developing soft skills in computer science and software engineering.  
+Proposes a course structure combining DevOps, Scrum, and Challenge Based Learning. ","Literature research with defined search terms and structured population/intervention.  
+Evaluation of papers, articles, journals, and magazines in English language.  
+Complemented research with web search for additional relevant studies. ","Active learning promotes interaction and high-order cognitive tasks. 
+Soft skills are often neglected in computer science curricula. 
+Lack of prescriptive methods to foster and measure soft skills. ","Proposed course structure integrating DevOps and Agile practices for soft skills. 
+Importance of soft skills in computer science and software engineering education. ","Proposed framework combines DevOps, Scrum, and CBL for student development. 
+Soft skills development in computer science and software engineering curricula.  
+Lack of prescriptive methods for fostering and measuring soft skills. 
+Importance of soft skills for personal and professional development. ","Soft skills development in computer science curricula using Agile and DevOps.
+Proposed course structure to enhance students' technical and non-technical skills.","Proposed framework combines DevOps, Scrum, and CBL for student development. 
+Future work includes experimental course application to validate proposed outcomes. ","Proposal combines DevOps, Scrum, and Challenge Based Learning for students' skills. 
+Peer assessment and self-reflection enhance students' soft skills development. 
+Soft skills course structure based on CMIEEE-CS recommendations. 
+Literature research on developing students' soft skills in computer science. ","Active learning methods include Problem Based Learning and Project Based Learning. 
+Challenge Based Learning involves solving real-world challenges with defined steps. 
+Experiential learning foundations are based on the works of Kolb. ","Active learning promotes interaction and high-order cognitive tasks. 
+Challenge Based Learning involves real-world problem-solving. 
+DevOps, Scrum, and Challenge Based Learning enhance soft skills development. ","Enhances soft skills development in students for IT market requirements. 
+Promotes high levels of interaction and active learning methodologies. 
+Improves students' communication, problem-solving, and decision-making abilities. 
+Complements Computer Science curricula with DevOps and Agile practices. "
+Teaching Guide for Beginnings in DevOps and Continuous Delivery in AWS Focused on the Society 5.0 Skillset.,"Didactic guide enhances soft and technical skills in systems engineering students. 
+Focus on architectural model, quality model, and continuous evaluation process. 
+Aims to improve students' competitiveness and industry readiness. ","Society 5.0 addresses global challenges through technology integration and innovation. 
+DevOps bridges development and operations functions in software companies. 
+Proposed guide focuses on DevOps and continuous deployment skills in AWS. ","Defined architectural model with multilayer architecture and backend for frontend. 
+Included REST services API documentation through Swagger framework. 
+Used database script versioner and Spring Initializr tool. ",No specific limitations mentioned in the provided contexts.,Teaching Guide for DevOps and continuous deployment in AWS. ,"Promotes competitiveness through information technologies to enhance project efficiency and quality. 
+Trains professionals in new technologies, work models, and problem-solving skills. 
+Enhances soft skills like motivation, adaptability, and creativity for Society 5.0. 
+Strengthens technical skills relevant to Society 5.0 for professional development. 
+Encourages effective communication and interpersonal relationships for successful project execution. ","Survey results show high motivation and creativity among students. 
+Guide enhances soft skills and technical competencies in students.  ","DevOps inclusion enhances skills for Society 5.0 in systems engineering. 
+Soft skills like motivation and adaptability are strengthened. 
+Effective communication is crucial for success in executing challenges. 
+Technical skills improvement is key for professional profile enhancement. ","Study evaluates guide impact on student training process in systems engineering. 
+Guide application enhances motivation, creativity, and effective communication among students. ","Project-based learning model with active student involvement and cooperation. 
+Tasks include defining projects, connecting with reality, and delivering valid products. ","Implementing authentic projects aligned with students' interests and knowledge. 
+Enhancing adaptability, motivation, and effective communication skills through challenging questions. 
+Fostering creativity, organization, and independence in project-based learning. 
+Providing opportunities for students to present work to professionals or experts. ","Enhances specific technical knowledge and skills in students. 
+Promotes competitiveness through information technologies for efficient project production. 
+Strengthens soft skills like motivation, adaptability, and creativity. 
+Improves technical skills relevant to Society 5.0 and professional profile. "
+A Serious Game with Which to Introduce Users to the World of DevOps,"Introduces a serious game to teach DevOps to software engineers. 
+Addresses the lack of training on DevOps despite industry demand. ","Introduces a serious game to teach DevOps concepts to users. 
+Addresses the lack of training on DevOps despite industry demand. 
+Focuses on software engineering students and inexperienced engineers. ","Serious game design
+Preliminary evaluation with 5 computer engineering students 
+Focus on teaching Global Software Development (GSD) ","Low number of students in the test could limit conclusions. 
+Difficulty in generalizing results due to small participant size. ","DevOps benefits, training potential, and lack of serious games. ","Validate the serious game with a larger student sample. 
+Identify strengths and weaknesses for game improvement. ","Preliminary evaluation showed game helped understand DevOps concepts.
+Formal study with more participants planned to validate game's usefulness.","Low student participation was a limitation, suggesting a need for more. 
+A larger sample size is recommended for future studies. ","Serious game introduces DevOps to software engineering students and inexperienced engineers. 
+Game helps understand key DevOps aspects, not monotonous, and interesting.  
+Preliminary evaluation with 5 students showed promising results.  ","Serious game design based on metaphors mapped onto concepts. 
+Interaction with balls representing work artifacts. 
+Simulation of CICD pipeline phases using buildings and icons. 
+Automation demonstrated through a conveyor belt moving balls. 
+Communication simulated through interactions with NPCs. ","Difficulty in teaching DevOps due to technical knowledge requirements. 
+Lack of common environment for development and operations teams. 
+Courses focusing only on tools for implementing DevOps practices. ","Enhances learning outcomes and student engagement. 
+Facilitates understanding of complex concepts through interactive methods. 
+Helps bridge the gap between theoretical knowledge and practical application. "
+Leveraging Teaching Methods to Overcome Challenges in DevOps Education.,"DevOps education challenges addressed through effective teaching methods. 
+Project-based and collaborative learning found to be successful approaches. ","DevOps bridges software development and operations for efficient product delivery. 
+Challenges in teaching DevOps include tool selection, theory-practice integration, and feedback. 
+Effective DevOps courses focus on project-based and collaborative learning.  
+Research method combines literature review, interviews, and surveys. ","Project-based learning
+Collaborative learning
+Problem-based learning
+Flipped classroom
+Case studies from Google, Netflix, and Meta  ",Focused on 443 links in DevOps courses using Problem-based Learning. ,"DevOps teaching methods and challenges in educational sector are explored. 
+Utilization of cloud providers' services in DevOps courses is highlighted. 
+Analysis of links between recommendations and challenges in DevOps courses. ","Identifies 18 teaching methods, emphasizing project-based and problem-based learning. 
+Explores how DevOps courses address challenges through instructional methods. 
+Surveyed DevOps educators to evaluate teaching methods and gather feedback. ","Successful approaches include project-based and collaborative learning.
+Identified teaching methods and linked them to challenges in DevOps.
+Analyzed 443 links focusing on Problem-based Learning in DevOps courses.","Project-based learning is the most common teaching method in DevOps. 
+Problem-based learning enhances problem-solving skills in DevOps education. 
+44 connections between teaching methods and DevOps education challenges were identified. 
+Emphasized the need for educational support tools and collaborative learning. 
+Explored new teaching methods and non-technical skills in DevOps courses. ","DevOps education challenges addressed through project-based and collaborative learning methods.  
+Various teaching methods like lecture, labs, problem-based learning, and mentoring discussed. ","Project-based learning and collaborative learning are successful teaching methods. 
+Problem-based learning and flipped classroom are effective teaching techniques. 
+Case studies from industry giants like Google and Netflix are utilized. ","Challenges include selecting appropriate tools, integrating theory and practice. 
+DevOps course challenges addressed through personalized learning and example-based instruction. 
+44 links between challenges and recommendations identified in DevOps education. ","Project-based learning enhances Software Engineering Education. 
+Collaborative learning and team building improve student engagement. 
+Hands-on experience with industry-standard tools enhances practical learning. 
+Problem-based learning and flipped classroom methods are effective. "
+Devops-preparing students for professional practice,"DevOps course for computer science students preparing for software engineering careers. 
+Focus on collaborative, team-based projects using cloud resources. 
+Course developed based on feedback from advisory board and industrial partners. ","DevOps course for computer science students integrating software development and operations.
+Focus on preparing students for collaborative, team-based projects using cloud resources.","DevOps course includes Git, Capybara, AWS, Docker, Ansible, and Jenkins. 
+Students use Docker to create image templates for virtualized deployment. 
+Course structure involves in-class labs, supplemental materials, and exams. ","Prerequisite Unix course depth was insufficient for DevOps preparation. 
+Course pace was too accelerated and lacked depth. ","Describes outcomes, topics, and learning activities of a DevOps course. 
+Summarizes consulting session outcomes and instructional methodology. 
+Discusses lessons learned from teaching the DevOps course. ","DevOps course prepares students for collaborative, cloud-based software projects. 
+DevOps education addresses continuous integration, delivery, and deployment challenges. 
+Students learn to use Jenkins for Continuous Integration in DevOps course. 
+DevOps practices need to be repeatable, automated, and standardized in education. ","DevOps course prepares students for collaborative, cloud-based projects. 
+Course focuses on Git, Capybara, AWS, Docker, and Jenkins. 
+DevOps course complements existing software engineering offerings. ","DevOps is essential for continuous integration and delivery. 
+Challenges include technology startup, lack of experience, and dense concepts. 
+Consider reevaluating technology stack and splitting topics into two courses. ","DevOps course for computer science students focusing on collaborative projects.  
+Utilized technologies like Git, Capybara, AWS, Docker, Ansible, and Jenkins.  
+Course structure includes labs, exams, and flipped classroom style. ","Labs covered manual setup, CI/CD, Docker, and infrastructure as code. 
+Used technologies like Ansible, Docker, AWS, and Jenkins in labs. ","DevOps education lacks standardization in curricula and teaching models. 
+Challenges include incorporating DevOps practices and tools effectively into education. 
+Existing courses focus on DevOps-related topics but lack standardized content. 
+DevOpsEnvy system proposed for utilizing DevOps technology in classrooms. ","Enhances rapid deployment and consistency in infrastructure configurations. 
+Provides hands-on experience with Source Code Management tools like Git. 
+Offers practical knowledge in Continuous Integration practices. "
+Understanding devops education with grounded theory.,"DevOps education in academia and industry analyzed using Grounded Theory. 
+Academics lack motivation to teach DevOps, industry practitioners learn through experience. 
+DevOps skills gap identified, education ranked least important by interviewees. ","DevOps aligns development and operations teams in IT industry.  
+Grounded Theory used to study DevOps education in academia and industry.  
+DevOps education lacks academic motivation, needs incentives for adoption.  
+Industry lacks defined roles for DevOps practitioners, learning through experience.  ","Grounded Theory (GT) methodology with SC GT techniques. 
+Qualitative research methodology to study DevOps education. ","Open coding interpretation concerns addressed by dual investigators. 
+External validity issue due to data source homogeneity. 
+Data saturation quality-focused, not quantity-driven. 
+Resource constraints limited additional interviews for confidence improvement. 
+Data reliability challenge due to rapid DevOps topic evolution. ","Studied DevOps education's current state and future directions. 
+Proposed hypotheses to integrate DevOps culture, procedure, and technology in education. 
+Identified barriers in DevOps knowledge and skills for academics and practitioners. 
+Addressed the lack of DevOps knowledge and skills as a barrier. ","DevOps education should focus on culture, procedure, and technology. 
+Academic institutions need to provide fundamental DevOps education for students. 
+DevOps practitioners must learn through hands-on working experience. 
+Industry lacks agreement on roles and responsibilities for DevOps practitioners. ","Academics lack motivation to adopt DevOps, hindering education.
+DevOps knowledge and skills are essential for academia and industry.
+Proposed future studies to advance DevOps education in academia.","DevOps education is lacking in academia, with academics uninterested. 
+Industry demands DevOps practitioners but lacks defined roles. 
+DevOps learning is hands-on, not comprehensive in academic institutions. ","DevOps education in academia and industry for future workforce readiness. 
+Academics need incentives to teach DevOps; industry lacks defined roles. 
+DevOps experts' insights on academia's interest and student learning outcomes. ","Grounded theory methodology used for DevOps education study. 
+Open coding, microanalysis, data analysis, interviews, and surveys conducted. ","Difficulty in setting up automated software infrastructure for students. 
+Academic education struggles to keep pace with evolving industrial practices. ","DevOps education enhances student learning outcomes through programming assignments. 
+DevOps education relies on hands-on experience and fundamental knowledge. "
+Teaching DevOps: a tale of two universities.,"DevOps teaching experiences at two universities in an inverted classroom format. 
+Challenges in teaching DevOps due to rapidly changing field and tools. 
+Assignments focused on DevOps tools and techniques for students' learning. ","DevOps teaching experiences at universities in the USA and Germany.  
+Inverted classroom format used for teaching DevOps in software engineering.  
+Focus on course content, structures, teaching methods, and lessons learned.  ","Inverted classroom format, lecture videos, and in-depth discussions. 
+Non-prescriptive assignments, active experimentation, and reflective observation. ","Self-reported times are unreliable, affecting data representation.
+Lessons shared are subjective and may not apply universally.","Including DevOps in university studies enhances agile software engineering projects. 
+Describes teaching practices at CMU and TUB in an inverted classroom. ","Highlights teaching DevOps in an inverted classroom format. 
+Emphasizes the importance of DevOps tools in learning success. 
+Discusses challenges faced by university lecturers in teaching DevOps. ","DevOps courses taught in inverted format at CMU and TUB.
+Students valued teaching style and content, employers valued resulting skill sets.
+Assignments included tasks with DevOps tools, documented completion times.","Described teaching DevOps at two universities in an inverted classroom format.
+Shared experiences with teaching practices and assignments at CMU and TUB. ","Teaching DevOps at two universities in an inverted classroom format.  
+Shared experiences, challenges, and lessons learned in teaching DevOps.  ","Inverted classroom format with video lectures and problem-solving discussions. 
+Non-prescriptive assignments encouraging active experimentation and reflective observation. 
+Lecture focused on software engineering concepts and DevOps core ideas. 
+Assignments exposed students to essential techniques and recent trends/tools. ","Vague wording in assignments led to high variance in submissions. 
+In-class discussions were seen as repetitive by some students. 
+Mandatory participation conflicts with the inverted classroom style. 
+Teaching underlying software engineering concepts while keeping up with new tools. ","Inverted classroom: students learn content outside lecture, apply knowledge in class. 
+DevOps education: focuses on technical concepts, practical assignments with industry tools. 
+Teaching practices: compared between universities, shared experiences with inverted classroom.  "
+Exploring the benefits of combining devops and agile,"Explores benefits of Agile and DevOps combined adoption in organizations. 
+Qualitative methodology with twelve case studies from international software companies. 
+Findings reveal twelve benefits including process automation and improved communication. ","Explores benefits of combining Agile and DevOps in software development. 
+Qualitative methodology with twelve case studies from international software companies. 
+Identifies twelve benefits including automation, improved communication, and reduced time. ","Qualitative methodology with thematic analysis to explore Agile and DevOps benefits. 
+Incorporation of twelve case studies from international software engineering companies. ","Case studies from secondary sources limit in-depth knowledge. 
+Bias risk due to commercial case studies from specific populations. 
+Qualitative approach hinders systematic identification and quantification of benefits. ","Interaction between users, engineers, and technology in software development.
+Bridging research gap by analyzing benefits of DevOps and Agile.","Agile and DevOps combined offer benefits when aligned properly. 
+Enhances fast delivery, optimized systems, and effective communication. 
+Address challenges, avoid isolated silos, and foster collaborative work. ","Identifies 12 benefits of Agile and DevOps combined adoption.
+Highlights automation, improved communication, and reduced time to market.
+Agile and DevOps offer relevant benefits when properly aligned.
+Agile and DevOps are not incompatible but bring organizational benefits.","Agile and DevOps are not incompatible but offer benefits when aligned. 
+Combined adoption enhances fast delivery, communication, and process integration. 
+Agile allows agile work with partial deliveries, while DevOps manages processes. ",Explores benefits of combining Agile and DevOps in software development. ,"Thematic analysis used to identify benefits of Agile and DevOps. 
+Qualitative methodology with 12 case studies from international software companies. 
+Agile and DevOps combined to automate processes and improve communication. ",The study does not address challenges in teaching techniques.  ,"Automation of processes, improved communication, and reduced time to market 
+Greater collaboration, automation, communication, mindset, and culture enhancements 
+Time to market, automation, communication, planning, and software quality improvements "
+Software Engineering Education in the DevOps Era: Experiences and Recommendations,"DevOps reshapes software delivery, requiring curriculum redesign in Software Engineering programs. 
+DevOps tools pose challenges for institutions, requiring cloud-based solutions. 
+DevOps addresses the 'last mile' of software delivery, enhancing industry practices. 
+DevOps topics essential in Software Engineering education, demanding program-level integration. ","DevOps addresses software delivery and operational concerns in Software Engineering.  
+DevOps integration in education requires a major curriculum redesign.  ","Hands-on approach
+Inverted classroom strategy
+Project-oriented DevOps course
+Flipped classroom strategy","Challenges in delivering hands-on approach due to fast-evolving DevOps tools. 
+Including DevOps topics requires program-level consideration, not just adding a course. ","DevOps topics integration in Software Engineering education. 
+Recommendations for including DevOps concerns in Software Engineering programs.  
+Challenges faced by educators in teaching DevOps due to evolving tools. ","DevOps topics should be integrated into Software Engineering programs. 
+Hands-on approach enhances understanding of software tools and concepts. 
+Cloud services can mitigate challenges with DevOps tools in labs. ","DevOps integration in software engineering curriculum requires major redesign.
+Hands-on approach enhances understanding of software engineering and DevOps topics.
+DevOps courses added to existing software engineering programs.
+Challenges and recommendations for teaching DevOps topics in software engineering.","DevOps is integrated into Software Engineering education with major challenges.
+Hands-on approach aligns theory with practical work for student satisfaction.","DevOps integration in Software Engineering programs requires major curriculum redesign. 
+Hands-on approach, cloud services, and flipped classroom strategy are effective.  
+DevOps topics should be integrated at the program level. ","Hands-on approach with flipped classroom strategy for DevOps education. 
+Virtual classes for remote support and project development. 
+Challenges in teaching due to fast-evolving tools and technologies. ","Constantly evolving tools require educators to stay updated. 
+Educators need to provide guidance and support for practical learning. 
+Including DevOps topics requires a program-level approach, not just a course. ","Enhances student engagement and participation in learning activities. 
+Facilitates hands-on learning experiences with practical tools and technologies. 
+Provides up-to-date knowledge and guidance on evolving tools and technologies. "
+TEACHING DEVOPS AND SOFTWARE ENGINEERING PRACTICES USING AN AUTOMATED PROGRAMMING ASSESSMENT SYSTEM,"Proposed ProgEdu bridges gap between theory and industry practices. 
+ProgEdu integrates DevOps practices, enhancing students' practical experience. 
+ProgEdu focuses on code quality, automated testing, and CICD. 
+Revised SE syllabus aligns with ProgEdu, cultivating critical DevOps skills. ","Focus on bridging theoretical knowledge with practical application in software engineering. 
+Introduces ProgEdu, an automated programming assessment system for DevOps practices. 
+Aims to prepare students for modern workforce demands using industry best practices. ","ProgEdu, a Git-driven APAS, monitors and evaluates students' programming assignments. 
+DevOps loop applied for iterative learning process in the system. 
+Service-oriented architecture and Docker used for Agile software development. 
+Log extractor and contribution analyzer provide feedback and compute team contributions. ",Lack of evaluation on the effectiveness of the approach. ,"ProgEdu bridges gap between theoretical knowledge and practical application. 
+ProgEdu enhances students' understanding of SE and DevOps concepts. 
+ProgEdu promotes hands-on learning with industry-standard tools in SE. ","ProgEdu enhances hands-on learning with industry-standard tools like GitLab. 
+ProgEdu bridges the gap between theory and practical application in SE. 
+The paper calls for educators to explore innovative teaching approaches. 
+ProgEdu facilitates real-time feedback for students on coding styles. ","ProgEdu bridges theory-practice gap, enhancing students' SE and DevOps skills.   
+ProgEdu integrates CI, code quality, Docker, aiding students' practical learning.  
+ProgEdu aligns with SE syllabus, cultivates DevOps skills for students.  ","ProgEdu enhances learning with industry-standard tools like GitLab and Jenkins. 
+The approach bridges theoretical knowledge and practical application effectively. 
+Future work includes evaluating the impact of ProgEdu on student outcomes. 
+Educators are encouraged to explore innovative teaching approaches for student benefit. ","Paper introduces ProgEdu for teaching DevOps and software engineering practices. 
+ProgEdu bridges gap between theoretical knowledge and practical application for students. 
+Emphasizes hands-on exercises with industry-standard tools for student preparation. ","Incorporating iterative and collaborative activities to engage students. 
+Leveraging online resources and tools for hands-on experience. 
+Partnerships with industry and educational institutions for necessary tools. ","Lack of tools for practical activities can hinder student engagement. 
+Difficulty in creating a complete DevOps process due to resource constraints. 
+Educators can enhance teaching methods by incorporating iterative and collaborative activities. 
+Partnerships with industry and other institutions can provide access to tools. ","Enhances practical experience in DevOps practices for students. 
+Aligns with primary principles of DevOps, focusing on code quality. 
+Facilitates hands-on experience with real-world projects and tools. 
+Provides valuable insights and promotes critical thinking. 
+Develops skills and knowledge not easily acquired through theory. "
+The Complications and Solutions of Using DevOps in the decipline,"DevOps resolves disputes between operation and development teams in software development. 
+Challenges and solutions of DevOps in software development are analyzed. 
+Educating employees on DevOps benefits enhances project quality and performance. ","DevOps resolves disputes between development and operations in software firms. 
+DevOps is a popular concept with challenges and mitigation strategies. ","Literature review to analyze DevOps challenges and mitigation strategies. 
+Systematic review approach to identify problems and mitigation solutions. ",Risks and mitigation strategies in DevOps software development process. ,"Comprehensive articulation of DevOps application difficulties and mitigation solutions. 
+Identifying problems and strategies for employing DevOps in software development. ","Identifies DevOps challenges and mitigation strategies in software development. 
+Offers insights for DevOps practitioners to manage risks effectively. 
+Analyzes specific risks and mitigation strategies in the field of DevOps. ","Identified risks in DevOps during software development.
+Provided mitigation strategies for specific risks in DevOps.","Research analyzed DevOps challenges and mitigation strategies. 
+DevOps practitioners can manage risks and develop budgets effectively. ","DevOps resolves disputes between operation and development teams in software development. 
+Educating employees on DevOps benefits enhances project quality and performance. 
+Research reviews DevOps challenges and mitigation strategies in software development. ","DevOps application difficulties and mitigation strategies analyzed through literature review. 
+Knowledge sharing, human behavior, and risk management strategies emphasized. ","DevOps application difficulties and mitigation strategies in software development. 
+Risks and mitigation strategies in the field of DevOps software development. ","Enhances student engagement and participation in the learning process. 
+Improves knowledge retention and understanding of complex concepts. 
+Facilitates effective communication and collaboration among students. "
+Threading DevOps practices through a university software engineering programme.,"DevOps practices integrated into software engineering curriculum for practical skills development. 
+DevOps Lab structure, exercises, assessment techniques, and connections to later projects. 
+Evolving build and deployment infrastructure from local network to cloud tools. ",DevOps practices integrated into university software engineering curriculum.   ,"Introduction of DevOps practices early in the degree program. 
+Teaching DevOps skills through practical exercises and substantial projects. 
+Providing guidance, official documentation, and tutorial resources for practical tasks. ",The paper does not explicitly mention limitations.,"DevOps practices integrated into various modules and projects. 
+Lean learning philosophy applied to transmit practical skills effectively. ","Encourages early introduction of DevOps skills in software engineering curriculum. 
+Aims to instill fundamental ways of working for future software engineers. 
+Focuses on practical exercises, assessment techniques, and connections to later projects. ","DevOps practices integrated into projects, enhancing students' practical skills.  
+Lean learning philosophy applied to transmit practical skills effectively. ","DevOps Lab early in the degree program enhances students' skills. 
+DevOps skills help students in internships and professional settings. 
+Curriculum focuses on lean learning philosophy for practical skill development. ","Paper introduces DevOps practices early in software engineering degree programme. 
+Students learn DevOps through practical exercises, projects, and assessments. 
+Curriculum inspired by lean learning philosophy to develop practical skills. ","Lean learning philosophy with practical exercises and substantial projects. 
+Introductory lecture, self-paced work, pointers to official documentation. 
+Laboratory exercise over one academic week, group work, live review. ","Avoid merging technical DevOps practices with agile development and design principles. 
+Introduce version control early to develop a habit of using it. ","Enhances practical skills application through substantial projects. 
+Balances guidance to encourage research and skill development. 
+Integrates DevOps practices into various modules for real-world application. "
+,,,,,,,,,,,,
+Systematic Literature Review,,,,,,,,,,,,
+Challenges and Recommendations in DevOps Education A Systematic Literature Review,"DevOps challenges and recommendations for teaching. 
+Focus on computing education and software creation. 
+73 challenges, 85 recommendations from 18 papers. 
+Addresses challenges in DevOps courses. ","DevOps literature review on challenges and recommendations for teaching DevOps. 
+Identifies 73 challenges and 85 recommendations from 18 selected papers. 
+Focus on preparing and executing DevOps courses in academia. ","Literature review
+Analysis of challenges and recommendations in DevOps education 
+Qualitative study to determine teaching strategies and research topics ",The paper does not explicitly mention limitations.,"Identified 73 challenges and 85 recommendations for teaching DevOps. 
+Investigated challenges and recommendations specific for teaching DevOps. ","Identifies 73 challenges and 85 recommendations for teaching DevOps. 
+Offers insights for preparing and executing DevOps courses effectively. ","Identified 73 challenges and 85 recommendations for teaching DevOps.
+Results grouped by themes, challenges, and recommendations for DevOps education.","Identified 73 challenges and 85 recommendations for teaching DevOps. 
+DevOps teaching recommendations address challenges, aiding course preparation and execution. 
+DevOps teaching experiences increased gradually from 2016, with 8 articles in 2019. ","DevOps education challenges and recommendations for teaching strategies. 
+Recommendations for course preparation, pedagogy, and curriculum in DevOps.   ","Project-based learning with individual assistance for students. 
+Use of non-traditional teaching methods like Pair Instruction and Problem-Based Learning. 
+Emphasis on practical classes alternating with theoretical sessions. 
+Creation of a relaxed and trustworthy atmosphere between students and teachers. 
+Agile process customized to encourage online and offline communication. ","Challenges include teaching DevOps philosophy, emphasizing values, and practical activities. 
+Need to explain DevOps principles early with basic examples. 
+Teaching innovative software system design for adaptability without complex analysis. 
+Utilizing multidisciplinary training and pedagogical experience for effective teaching. ","Enhances knowledge transfer and student engagement in DevOps courses. 
+Promotes real-world simulation and practical learning experiences for students. 
+Fosters collaboration, communication, and socialization among students in project-based learning. 
+Supports non-traditional teaching methods like Pair Instruction and Problem-Based Learning. 
+Encourages an interactive and student-centered approach for agile methodologies. "
+"DevOps Didactic Transposition in IS Higher Education A Systematic Literature Review
+","DevOps in IS education benefits students' career development and communication. 
+DevOps emerged recently and is highly related to PjBL. 
+Describes DevOps state-of-art in IS education and theoretical foundation. ","DevOps in IS education, focusing on students' results and teaching context.    ","Systematic Literature Review (SLR) method was adopted for data collection. 
+Two phases: RSL planning and RSL conduction were developed. 
+Inclusion and exclusion criteria were established for study selection. 
+Search string and databases like Scopus and Web of Science were used. 
+Filtering process removed articles based on study criteria. ","Bias in RSL execution processes and data collection issues. 
+Results not generalizable to other educational contexts.  ","Describes DevOps in IS education, theoretical foundation, and student results. 
+Investigates teaching context, student results, and DevOps benefits. 
+Qualifies SLR articles, describes teaching context, and presents student results. 
+SLR final selection of 22 papers, increasing interest in IS DevOps. 
+Provides insights into teaching methods, courses, research types, and benefits. ","Describes, classifies, and analyzes teaching context and student results. 
+Provides insights into DevOps in IS education and student outcomes. 
+Offers a theoretical foundation for IS didactic transposition from industry. ","DevOps benefits student career development and communication.
+DevOps is highly related to project-based learning in IS education.
+DevOps emerged recently in IS education.","DevOps emerged recently in IS education, highly related to PjBL. 
+DevOps benefits students' career development, grades, and communication. 
+SLR resulted in 22 articles from 339 studies initially selected. ","Explored DevOps in IS education, focusing on student outcomes. 
+Identified 22 relevant papers, showing recent interest in IS DevOps education. ","Project-based learning (PjBL) and DevOps-based learning (DevOpsBL) are utilized. 
+DevOps is applied to IS teaching context for student benefits. 
+Didactic transposition involves practices from IS industry for teaching methods. ","Underutilization of IS-DT due to industry innovation speed mismatch. 
+Lack of balance between development and operations in teaching methodologies. 
+Shift towards skills-based learning requires proactive student problem-solving. ","DevOps benefits students' career development, grades, and communication. 
+Didactic transposition enhances students' vocational exploration and traditional factors. "
